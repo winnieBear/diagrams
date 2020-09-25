@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-09-25T07:56:58.121Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="E4R1pm9XpejEvB0aAbJl" version="13.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-25T07:58:36.180Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="TBLuew5Jos9MiJW1U__P" version="13.6.3" type="github">
   <diagram id="sB7zFL8JFn0QuQvQ9iL3" name="第 1 页">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WBYiJeZkuYEDSoGqKssV-112" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
+        <mxCell id="WBYiJeZkuYEDSoGqKssV-112" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9999FF;" vertex="1" parent="1">
           <mxGeometry x="585" y="30" width="565" height="330" as="geometry" />
         </mxCell>
         <mxCell id="WBYiJeZkuYEDSoGqKssV-60" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FF99;" vertex="1" parent="1">
@@ -23,10 +23,10 @@
             <mxPoint x="630" y="169.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WBYiJeZkuYEDSoGqKssV-3" value="手机1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9999FF;" vertex="1" parent="1">
+        <mxCell id="WBYiJeZkuYEDSoGqKssV-3" value="手机1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="600" y="199.5" width="60" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="WBYiJeZkuYEDSoGqKssV-4" value="手机N" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9999FF;" vertex="1" parent="1">
+        <mxCell id="WBYiJeZkuYEDSoGqKssV-4" value="手机N" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1070" y="199.5" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WBYiJeZkuYEDSoGqKssV-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WBYiJeZkuYEDSoGqKssV-5">
@@ -34,7 +34,7 @@
             <mxPoint x="880" y="339.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WBYiJeZkuYEDSoGqKssV-5" value="手机3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9999FF;" vertex="1" parent="1">
+        <mxCell id="WBYiJeZkuYEDSoGqKssV-5" value="手机3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="850" y="199.5" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WBYiJeZkuYEDSoGqKssV-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WBYiJeZkuYEDSoGqKssV-6">
@@ -42,7 +42,7 @@
             <mxPoint x="760" y="339.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WBYiJeZkuYEDSoGqKssV-6" value="手机2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9999FF;" vertex="1" parent="1">
+        <mxCell id="WBYiJeZkuYEDSoGqKssV-6" value="手机2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="730" y="199.5" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WBYiJeZkuYEDSoGqKssV-8" value="..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -92,7 +92,7 @@
             <mxPoint x="865" y="169.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WBYiJeZkuYEDSoGqKssV-37" value="手机爬虫中控机" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9999FF;" vertex="1" parent="1">
+        <mxCell id="WBYiJeZkuYEDSoGqKssV-37" value="手机爬虫中控机" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="600" y="39.5" width="530" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WBYiJeZkuYEDSoGqKssV-39" value="通过Airtest测试框架，调度爬虫集群访问指定的App页面" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
